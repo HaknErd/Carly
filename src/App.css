@@ -1,0 +1,23 @@
+.hideover {
+    overflow: hidden;
+    border: 5px var(--bs-gray) solid;
+}
+/* Add a shadow to the images to make them stand out */
+.Image {
+    width: 100%;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+    object-fit: contain;
+}
+
+/* Add a hover effect to the images */
+.Image:hover {
+    transform: scale(1.2);
+}
+
+.nav-link {
+    border-radius: 10px;
+}
+.nav-link:hover {
+    background-color: var(--bs-teal);
+}
