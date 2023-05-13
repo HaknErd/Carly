@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Carly/static/css/main.09a7bb75.css",
+    "main.js": "/Carly/static/js/main.e9649bd2.js",
+    "static/js/787.2b62bcad.chunk.js": "/Carly/static/js/787.2b62bcad.chunk.js",
+    "static/media/internet.jpg": "/Carly/static/media/internet.5c4766d8030721b64f83.jpg",
+    "index.html": "/Carly/index.html",
+    "main.09a7bb75.css.map": "/Carly/static/css/main.09a7bb75.css.map",
+    "main.e9649bd2.js.map": "/Carly/static/js/main.e9649bd2.js.map",
+    "787.2b62bcad.chunk.js.map": "/Carly/static/js/787.2b62bcad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09a7bb75.css",
+    "static/js/main.e9649bd2.js"
+  ]
+}
